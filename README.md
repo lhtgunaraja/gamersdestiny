@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Guna @gamersdestiny 
-- 🌱 I’m currently learning ... Python & django,Html,css
+- 👋 Hi, I’m  Guna @gamersdestiny passoniate programmer
+- 🌱 Learning ... Python & django, Html, Css, Javascript
 - 📫 To reach me ... guna57012@gmail.com
 
 <!---
