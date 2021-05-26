@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Guna @gamersdestiny passoniate programmer
+- 👋 Hi, I’m  Guna @gamersdestiny a passoniate programmer
 - 🌱 Learning ... Python & django, Html, Css, Javascript
 - 📫 To reach me ... guna57012@gmail.com
 
