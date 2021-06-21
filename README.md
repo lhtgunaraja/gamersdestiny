@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Guna @gamersdestiny a passoniate programmer
 - 🌱 Learning ... Javascript and more
 - 📫 To reach me ... guna57012@gmail.com
-- ✨ Know ...
+- ✨ Skills ...
  ## Frontend
 -   * HTML,
 -   * Css,
