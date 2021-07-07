@@ -3,18 +3,18 @@
 - 📫 To reach me ... https://neobguna.online (or) guna57012@gmail.com
 - ✨ Skills ...
  ## Frontend
--   * HTML,
--   * Css,
--   * JavaScript
+  -   HTML,
+  -   Css,
+  -   JavaScript
 ## Backend
--   * Python
--   * Django
+  -   Python
+  -   Django
 ## Design Tools
--   * Figma
--   * Adobe XD
+  -   Figma
+  -   Adobe XD
 ## Databases
--   * MySQL
--   * Postgresql
+  -   MySQL
+  -   Postgresql
 ## Hosting
--   * Heroku
--   * Github pages
+  -   Heroku
+  -   Github pages
