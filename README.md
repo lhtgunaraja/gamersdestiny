@@ -17,4 +17,5 @@
   -   Postgresql
 ## Hosting
   -   Heroku
+  -   Amazon EC2
   -   Github pages
