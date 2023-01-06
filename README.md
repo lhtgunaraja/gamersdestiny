@@ -1,5 +1,4 @@
-- 👋 Hi, I’m  Guna @gamersdestiny a passoniate programmer
-- 🌱 Learning ... Javascript and more
+- 👋 Hi, I’m  Guna @gamersdestiny fullstack, blockchain developer
 - 📫 To reach me ... guna57012@gmail.com
 - ✨ Skills ...
  ## Frontend
@@ -10,6 +9,11 @@
   -   Python
   -   Django
   -   NodeJs
+## Blockchain
+  -   Cosmos
+  -   Substrate
+  -   Ethereum
+  -   Cardano
 ## Design Tools
   -   Figma
   -   Adobe XD
